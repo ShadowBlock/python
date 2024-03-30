@@ -1,0 +1,25 @@
+Töö autorid on Stiven Lille ja Juhan Puusepp
+
+Worlde mängukirjeldus
+
+Wordle mäng valib ühe suvalise 5-tähelise sõna, mida ta kasutajale ei avalda alguses
+Kasutajal on 6 võimalust see sõna ära arvata, iga katse järel programm näitab, kui lähedal on kasutaja sõna äraarvamisele
+Kasutaja peab pakkuma suvalise 5-tähelise sõna.
+Kui kasutajal on täht või tähed õiged, aga vales kohas, siis need muutuvad kollaseks.
+Kui kasutajal on täht või tähed õiged ja õiges kohas, siis need muutuvad roheliseks.
+Kui kasutajal ei ole tähed õiged, jäävad tähed tavaliseks mustaks.
+Kui kasutaja pakub õige sõna, lähevad kõik tähed roheliseks ning programm edastab võiduteatise.
+
+Programmi töökäik
+
+Alguses loeb failist kõik sõnad.
+Seejärel valib suvaliselt 1 sõna.
+Seejärel jaotab programm selle sõna järjendiks.
+Kasutajal lastakse pakkuda üks sõna.
+Programm muudab kasutaja pakutud sõna järjendiks.
+Programm kontrollib tähtede õigsust.
+Programm käitub nii iga pakutud sõna puhul.
+Iga katse puhul väljastab programm värvitud versiooni pakutud sõnast.
+Õige sõna korral väljastab programm võiduteatise.
+Vale sõna korral, kui on katsed läbi, väljastab programm kaotuseteatise.
+Programm laseb nii kaotuse kui ka võidu korral mängu uuesti alustada.
