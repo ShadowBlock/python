@@ -1,0 +1,25 @@
+{
+    "students": [
+        {
+            "name": "Tim Johnson",
+            "studentCode": "2156TIMJOH",
+            "submissions": [
+                {
+                    "exerciseId": "EX01_VARIABLES",
+                    "submittedAt": "25.02.2024T15:24:12",
+                    "grade": 1.0
+                },
+                {
+                    "exerciseId": "EX01_VARIABLES",
+                    "submittedAt": "25.02.2024T15:20:12",
+                    "grade": 0.8
+                },
+                {
+                    "exerciseId": "EX01_VARIABLES",
+                    "submittedAt": "25.02.2024T15:00:12",
+                    "grade": 0.5
+                }
+            ]
+        }
+    ]
+}
